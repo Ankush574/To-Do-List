@@ -15,8 +15,8 @@ Clean and responsive user interface
 
 🔧 Tech Stack
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 JavaScript 
