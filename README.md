@@ -1,7 +1,7 @@
-## 🔗 Live Preview
+ 🔗 Live Preview
 (https://stunning-beignet-3abf57.netlify.app/)
 
-✨ Key Features
+✨ Key Features :-
 Add new tasks instantly
 
 Edit and delete existing tasks
@@ -13,7 +13,7 @@ Automatically saves tasks
 Clean and responsive user interface
 
 
-🔧 Tech Stack
+🔧 Tech Stack :-
 
 HTML
 
