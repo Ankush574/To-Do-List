@@ -1,22 +1,31 @@
- 🔗 Live Preview
-(https://stunning-beignet-3abf57.netlify.app/)
+# Software Testing Assessment
 
-✨ Key Features :-
-Add new tasks instantly
+## Task Management Application
 
-Edit and delete existing tasks
+This folder contains my software testing assessment for a Task Management Application.
 
-Mark tasks as complete/incomplete
+The assessment covers:
 
-Automatically saves tasks 
+- User Registration
+- User Login
+- Create Task
+- View Task List
+- Edit Task
+- Delete Task
+- Input Validation
+- Error Handling
+- Security and Authorization
 
-Clean and responsive user interface
+## Testing Approach
 
+I started with the main user flow:
 
-🔧 Tech Stack :-
+Registration -> Login -> Create Task -> View Task -> Edit Task -> Delete Task -> Logout
 
-HTML
+After checking the basic flow, I would focus on negative and edge cases such as empty fields, invalid input, boundary values, duplicate clicks, network/database failures, session expiry and unauthorized access.
 
-CSS
+The potential bugs in this assessment are risk areas identified from the requirements without executing the application. They are not confirmed defects.
 
-JavaScript 
+## Note
+
+This assessment is kept separately from the application source code so that the original project remains unchanged.
